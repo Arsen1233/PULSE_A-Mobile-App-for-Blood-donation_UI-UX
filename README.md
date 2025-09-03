@@ -10,7 +10,7 @@ Created in Figma with features like donor **eligibility status bar, profile scre
 ---
 
 ## 📂 Project Files
-- [Download PDF Preview](./blood-donation-app.pdf)
+- [Download PDF Preview](https://github.com/Arsen1233/PULSE_A-Mobile-App-for-Blood-donation_UI-UX/commit/1777ed93e19417461d5c53f3969a05d47ab24427)
 
 ---
 
